@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://170.18.10.241:8080/TestServ/ipa/seu_iphone.ipa</string>
+					<string>http://170.18.10.214:8080/scanbar/foo.ipa</string>
 				</dict>
 				<dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://170.18.10.241:8080/TestServ/ipa/ic_launcher.png</string>
+                   <string>http://170.18.10.214:8080/scanbar/ic_launcher.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,21 +27,21 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://170.18.10.241:8080/TestServ/ipa/ic_launcher.png</string>
+                   <string>http://170.18.10.214:8080/scanbar/ic_launcher.png</string>
                </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sudytech.Hoo</string>
+				<string>com.sudytech.foo</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Hoo</string>
+				<string>foo</string>
 				<key>subtitle</key>
-				<string>Hoo</string>
+				<string>foo</string>
 			</dict>
 		</dict>
 	</array>
